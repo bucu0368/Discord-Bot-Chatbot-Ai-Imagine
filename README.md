@@ -1,2 +1,7 @@
-# Discord-Bot-Chatbot-Ai-Imagine
-Discord bot slash command Chatbot AI Image Generation 
+## Starting 
+```bash
+npm install
+```
+```bash
+node index.js
+```
